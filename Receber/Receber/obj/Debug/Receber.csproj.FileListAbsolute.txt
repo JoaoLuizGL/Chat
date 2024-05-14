@@ -1,0 +1,57 @@
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula11\TPAula10\Receber\Receber\bin\Debug\Receber.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula11\TPAula10\Receber\Receber\bin\Debug\Receber.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula11\TPAula10\Receber\Receber\bin\Debug\Receber.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula11\TPAula10\Receber\Receber\obj\Debug\Receber.Form1.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula11\TPAula10\Receber\Receber\obj\Debug\Receber.Properties.Resources.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula11\TPAula10\Receber\Receber\obj\Debug\Receber.csproj.GenerateResource.Cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula11\TPAula10\Receber\Receber\obj\Debug\Receber.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula11\TPAula10\Receber\Receber\obj\Debug\Receber.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula09\TPAula08\Receber\Receber\bin\Debug\Receber.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula09\TPAula08\Receber\Receber\bin\Debug\Receber.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula09\TPAula08\Receber\Receber\bin\Debug\Receber.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula09\TPAula08\Receber\Receber\obj\Debug\Receber.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula09\TPAula08\Receber\Receber\obj\Debug\Receber.Form1.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula09\TPAula08\Receber\Receber\obj\Debug\Receber.Properties.Resources.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula09\TPAula08\Receber\Receber\obj\Debug\Receber.csproj.GenerateResource.Cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula09\TPAula08\Receber\Receber\obj\Debug\Receber.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula09\TPAula08\Receber\Receber\obj\Debug\Receber.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula09\TPAula08\Receber\Receber\bin\Debug\Receber.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula09\TPAula08\Receber\Receber\bin\Debug\Receber.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula09\TPAula08\Receber\Receber\bin\Debug\Receber.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula09\TPAula08\Receber\Receber\obj\Debug\Receber.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula09\TPAula08\Receber\Receber\obj\Debug\Receber.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula09\TPAula08\Receber\Receber\obj\Debug\Receber.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula09\TPAula08\Receber\Receber\obj\Debug\Receber.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula09\TPAula08\Receber\Receber\obj\Debug\Receber.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula09\TPAula08\Receber\Receber\obj\Debug\Receber.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula09\TPAula08\Receber\Receber\obj\Debug\Receber.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04\Receber\Receber\bin\Debug\Receber.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04\Receber\Receber\bin\Debug\Receber.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04\Receber\Receber\bin\Debug\Receber.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04\Receber\Receber\obj\Debug\Receber.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04\Receber\Receber\obj\Debug\Receber.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04\Receber\Receber\obj\Debug\Receber.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04\Receber\Receber\obj\Debug\Receber.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04\Receber\Receber\obj\Debug\Receber.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04\Receber\Receber\obj\Debug\Receber.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04comThread\Receber\Receber\obj\Debug\Receber.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04comThread\Receber\Receber\obj\Debug\Receber.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04comThread\Receber\Receber\obj\Debug\Receber.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04comThread\Receber\Receber\obj\Debug\Receber.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04comThread\Receber\Receber\obj\Debug\Receber.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04comThread\Receber\Receber\obj\Debug\Receber.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04comThread\Receber\Receber\obj\Debug\Receber.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04comThread\Receber\Receber\bin\Debug\Receber.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04comThread\Receber\Receber\bin\Debug\Receber.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04comThread\Receber\Receber\bin\Debug\Receber.pdb
+C:\Users\unisanta\Desktop\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Receber\Receber\bin\Debug\Receber.exe.config
+C:\Users\unisanta\Desktop\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Receber\Receber\bin\Debug\Receber.exe
+C:\Users\unisanta\Desktop\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Receber\Receber\bin\Debug\Receber.pdb
+C:\Users\unisanta\Desktop\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Receber\Receber\obj\Debug\Receber.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Receber\Receber\obj\Debug\Receber.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Receber\Receber\obj\Debug\Receber.Form1.resources
+C:\Users\unisanta\Desktop\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Receber\Receber\obj\Debug\Receber.Properties.Resources.resources
+C:\Users\unisanta\Desktop\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Receber\Receber\obj\Debug\Receber.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Receber\Receber\obj\Debug\Receber.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Receber\Receber\obj\Debug\Receber.exe
+C:\Users\unisanta\Desktop\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Receber\Receber\obj\Debug\Receber.pdb

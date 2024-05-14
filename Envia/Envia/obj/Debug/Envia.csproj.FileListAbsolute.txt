@@ -1,0 +1,60 @@
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula11\TPAula10\Envia\Envia\obj\Debug\Envia.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula11\TPAula10\Envia\Envia\obj\Debug\Envia.Form1.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula11\TPAula10\Envia\Envia\obj\Debug\Envia.Properties.Resources.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula11\TPAula10\Envia\Envia\obj\Debug\Envia.csproj.GenerateResource.Cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula11\TPAula10\Envia\Envia\bin\Debug\Envia.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula11\TPAula10\Envia\Envia\bin\Debug\Envia.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula11\TPAula10\Envia\Envia\bin\Debug\Envia.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula11\TPAula10\Envia\Envia\obj\Debug\Envia.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula11\TPAula10\Envia\Envia\obj\Debug\Envia.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula09\TPAula08\Envia\Envia\bin\Debug\Envia.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula09\TPAula08\Envia\Envia\bin\Debug\Envia.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula09\TPAula08\Envia\Envia\bin\Debug\Envia.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula09\TPAula08\Envia\Envia\obj\Debug\Envia.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula09\TPAula08\Envia\Envia\obj\Debug\Envia.Form1.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula09\TPAula08\Envia\Envia\obj\Debug\Envia.Properties.Resources.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula09\TPAula08\Envia\Envia\obj\Debug\Envia.csproj.GenerateResource.Cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula09\TPAula08\Envia\Envia\obj\Debug\Envia.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula09\TPAula08\Envia\Envia\obj\Debug\Envia.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula09\TPAula08\Envia\Envia\bin\Debug\Envia.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula09\TPAula08\Envia\Envia\bin\Debug\Envia.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula09\TPAula08\Envia\Envia\bin\Debug\Envia.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula09\TPAula08\Envia\Envia\obj\Debug\Envia.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula09\TPAula08\Envia\Envia\obj\Debug\Envia.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula09\TPAula08\Envia\Envia\obj\Debug\Envia.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula09\TPAula08\Envia\Envia\obj\Debug\Envia.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula09\TPAula08\Envia\Envia\obj\Debug\Envia.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula09\TPAula08\Envia\Envia\obj\Debug\Envia.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim02Aula09\TPAula08\Envia\Envia\obj\Debug\Envia.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04\Envia\Envia\bin\Debug\Envia.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04\Envia\Envia\bin\Debug\Envia.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04\Envia\Envia\bin\Debug\Envia.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04\Envia\Envia\obj\Debug\Envia.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04\Envia\Envia\obj\Debug\Envia.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04\Envia\Envia\obj\Debug\Envia.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04\Envia\Envia\obj\Debug\Envia.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04\Envia\Envia\obj\Debug\Envia.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04\Envia\Envia\obj\Debug\Envia.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula05\TPAula04\Envia\Envia\obj\Debug\Envia.pdb
+G:\Asenjo\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Envia\Envia\bin\Debug\Envia.exe.config
+G:\Asenjo\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Envia\Envia\bin\Debug\Envia.exe
+G:\Asenjo\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Envia\Envia\bin\Debug\Envia.pdb
+G:\Asenjo\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Envia\Envia\obj\Debug\Envia.csproj.AssemblyReference.cache
+G:\Asenjo\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Envia\Envia\obj\Debug\Envia.csproj.SuggestedBindingRedirects.cache
+G:\Asenjo\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Envia\Envia\obj\Debug\Envia.Form1.resources
+G:\Asenjo\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Envia\Envia\obj\Debug\Envia.Properties.Resources.resources
+G:\Asenjo\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Envia\Envia\obj\Debug\Envia.csproj.GenerateResource.cache
+G:\Asenjo\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Envia\Envia\obj\Debug\Envia.csproj.CoreCompileInputs.cache
+G:\Asenjo\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Envia\Envia\obj\Debug\Envia.exe
+G:\Asenjo\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Envia\Envia\obj\Debug\Envia.pdb
+C:\Users\unisanta\Desktop\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Envia\Envia\bin\Debug\Envia.exe.config
+C:\Users\unisanta\Desktop\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Envia\Envia\bin\Debug\Envia.exe
+C:\Users\unisanta\Desktop\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Envia\Envia\bin\Debug\Envia.pdb
+C:\Users\unisanta\Desktop\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Envia\Envia\obj\Debug\Envia.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Envia\Envia\obj\Debug\Envia.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Envia\Envia\obj\Debug\Envia.Form1.resources
+C:\Users\unisanta\Desktop\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Envia\Envia\obj\Debug\Envia.Properties.Resources.resources
+C:\Users\unisanta\Desktop\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Envia\Envia\obj\Debug\Envia.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Envia\Envia\obj\Debug\Envia.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Envia\Envia\obj\Debug\Envia.exe
+C:\Users\unisanta\Desktop\SegundoSemestre\SantaPratica\Bim01Aula04\Parte I\TPAula03\Envia\Envia\obj\Debug\Envia.pdb
